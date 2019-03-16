@@ -9,8 +9,5 @@ def reverse_each_word(sentence)
   reversed.join(" ")
   #/binding.pry
   
-  array.reverse.collect do |x|
-    reversed.push(x)
-  end
-  reversed.join(" ")
+  
 end
