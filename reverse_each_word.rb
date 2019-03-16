@@ -10,5 +10,5 @@ def reverse_each_word(sentence)
   #/binding.pry
   
   array.reverse.collect do |x|
-  
+    
 end
